@@ -2,7 +2,7 @@
 - 👀 I’m interested in ... Python, Java and C++
 - 🌱 I’m currently learning ... Python
 - 💞️ I’m looking to collaborate on ... Games, Machine Learning...
-- 📫 How to reach me ... Email address
+- 📫 How to reach me ... On my Twitter Account
 
 <!---
 BearH3ad/BearH3ad is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
